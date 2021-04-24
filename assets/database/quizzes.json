@@ -1,43 +1,49 @@
 [
     {
-        "tittle": "NLW 5 Flutter",
+        "title": "NLW 5 Flutter",
         "imagem": "blocks",
-        "questionanswered": 1,
+        "questionAnswered": 1,
         "level": "facil",
         "questions": [
             {
-                "tittle": "Esta gostando do Flutter",
+                "title": "Está curtindo o Flutter",
                 "answers": [
                     {
-                        "tittle": "Estou curtindo"
-                    },
-                    {
-                        "tittle": "Estou gostando"
-                    },
-                    {
-                        "tittle": "Muito top"
-                    },
-                    {
-                        "tittle": "Muito fodaaa!",
+                        "title": "Estou curtindo",
                         "isRight": true
+                    },
+                    {
+                        "title": "Estou amando",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Muito top",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Show de bola",
+                        "isRight": false
                     }
                 ]
             },
             {
-                "tittle": "Esta gostando do Flutter",
+                "title": "Está curtindo o Flutter 2",
                 "answers": [
                     {
-                        "tittle": "Estou curtindo"
-                    },
-                    {
-                        "tittle": "Estou gostando"
-                    },
-                    {
-                        "tittle": "Muito top"
-                    },
-                    {
-                        "tittle": "Muito fodaaa!",
+                        "title": "Estou curtindo",
                         "isRight": true
+                    },
+                    {
+                        "title": "Estou amando",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Muito top",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Show de bola",
+                        "isRight": false
                     }
                 ]
             }
