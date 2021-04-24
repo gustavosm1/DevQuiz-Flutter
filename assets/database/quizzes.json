@@ -6,43 +6,64 @@
         "level": "facil",
         "questions": [
             {
-                "title": "Está curtindo o Flutter",
+                "title": "O aplicativo pode rodar em quais sistemas?",
                 "answers": [
                     {
-                        "title": "Estou curtindo",
+                        "title": " Todos",
                         "isRight": true
                     },
                     {
-                        "title": "Estou amando",
+                        "title": "Android",
                         "isRight": false
                     },
                     {
-                        "title": "Muito top",
+                        "title": " Mac",
                         "isRight": false
                     },
                     {
-                        "title": "Show de bola",
+                        "title": "Linux",
                         "isRight": false
                     }
                 ]
             },
             {
-                "title": "Está curtindo o Flutter 2",
+                "title": "Oque o Flutter faaz em sua totalidade?",
                 "answers": [
                     {
-                        "title": "Estou curtindo",
+                        "title": "Kit de desenvolvimento de interface do usuário",
+                        "isRight": false
+                    },
+                    {
+                        "title": "Possibilita criação de aplicativos compilados nativamente",
                         "isRight": true
                     },
                     {
-                        "title": "Estou amando",
+                        "title": "Acho que é uma marca de café do Himalaia",
                         "isRight": false
                     },
                     {
-                        "title": "Muito top",
+                        "title": "Possibilita criação de desktops que são ,muito incriveis",
+                        "isRight": false
+                    }
+                ]
+            },
+            {
+                "title": "Qual a linguagem utilizada no Flutter?",
+                "answers": [
+                    {
+                        "title": " Java",
                         "isRight": false
                     },
                     {
-                        "title": "Show de bola",
+                        "title": "C",
+                        "isRight": false
+                    },
+                    {
+                        "title": " Dart",
+                        "isRight": true
+                    },
+                    {
+                        "title": "C++",
                         "isRight": false
                     }
                 ]
